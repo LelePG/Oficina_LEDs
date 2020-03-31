@@ -13,6 +13,6 @@ Você será redirecionado para uma pasta com o material anterior, e então pode 
 * Exemplificar algumas aplicações destes circuitos em diferentes materiais.
 
 #### Para avaliar a oficina:
-[CLIQUE AQUI](https://docs.google.com/forms/d/e/1FAIpQLSe64AyHMTtxohcr_GUTZYbmMCibt0iT5_UngaecLmYpATMTDw/viewform)
+[CLIQUE AQUI](https://docs.google.com/forms/d/e/1FAIpQLScdaC5OpOOVFhh4wgDB_LQwkz0EdLn1GVObfyiD1DOubkCjGg/viewform)
 
 ##### Contato: lpgarcez@inf.ufpel.edu.br
